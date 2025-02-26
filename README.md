@@ -2,7 +2,7 @@
 
 A simple and elegant Chrome extension that replaces the new tab page with a real-time analog clock, built using **React**, **TypeScript**, and **SVG**. It also features stylish Google Fonts and a clean design.
 
-![Clock Preview](![alt text](image.png)) <!-- Replace with an actual screenshot if you want -->
+![Clock Preview](image.png) <!-- Replace with an actual screenshot if you want -->
 
 ---
 
